@@ -1,16 +1,27 @@
-## Hi, I'm Jerónimo 👋
+<h1 align="center"> 👋  Hi, I'm Jerónimo / Jerov159 ✨ </h1> 
 
-<!--
-**Jerov159/Jerov159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href = "jeronimovallejoquintero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Jerov159"/></a>
+<a href = "https://www.instagram.com/vq_jero06/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@Jerov159"/></a>
+  </p>
+<br>
+<h2> About me 😃</h2>
 
-Here are some ideas to get you started:
+<p align="left">
+  
+ - 🎓 I'm sotware engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development technologies like Java, Javascript, Python.
+
+- 💻 I’m currently learning new technologies and frameworks such as Django, React, etc.
+ 
+📫 Contacto: **jeronimovallejoquintero@gmail.com**
+  </p>
+
+<h2 >Languages and tools👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,firebase,git,github,postman,vscode" />
+  </a>
+</p>
+
