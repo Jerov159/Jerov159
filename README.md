@@ -21,7 +21,7 @@
 <h2 >Languages and tools👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,firebase,git,github,postman,vscode,laravel" />
+  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,firebase,git,github,postman,vscode,laravel,laragon,heidisql" />
   </a>
 </p>
 
